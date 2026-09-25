@@ -1,1 +1,1 @@
-soal-1.php
+<?php echo "Hello World"; ?>
